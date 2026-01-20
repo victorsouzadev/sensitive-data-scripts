@@ -1,0 +1,9 @@
+scikit-learn
+matplotlib
+datasets==3.6.0
+transformers>=4.41
+accelerate
+peft
+safetensors>=0.4.0
+fsspec==2025.3.0
+gcsfs==2025.3.0
